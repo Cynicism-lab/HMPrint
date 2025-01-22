@@ -1,9 +1,7 @@
-<p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
+<p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://cdn.jsdelivr.net/gh/Cynicism-lab/MyResource@gh-pages/img/hmprint.png" alt="logo"></a></p>
 
-# HMPrint
-::: tip 项目介绍
-本兮
-:::
+# Introduction
 
-## 实验演示
+
+# Demo
 
