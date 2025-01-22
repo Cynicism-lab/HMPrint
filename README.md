@@ -5,7 +5,10 @@
 </p>
 
 # Introduction
-
+This is a system that captures
+air-friction-induced sonic effects (AFiSe) from head gestures
+via out-ear microphones for authentication. 
 
 # Demo
-
+This is a demo video about HMPrint, mentioned in the paper _Decoding Air Friction Rhythms: Enabling User Identification with Out-Ear
+Microphones in COTS Earphones_
