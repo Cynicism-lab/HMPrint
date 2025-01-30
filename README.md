@@ -15,8 +15,11 @@ This is a demo video including four head gestures about HMPrint, mentioned in th
 Microphones in COTS Earphones_**
 
 
+https://github.com/user-attachments/assets/b96b942c-41c4-4752-ae05-8808b2f037dc
 
-https://github.com/user-attachments/assets/dc6a806d-6f65-4863-b202-2090468734ee
+
+
+
 
 
 
