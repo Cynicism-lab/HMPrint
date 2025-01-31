@@ -19,6 +19,16 @@ Click the link below to jump to the demo video playback
 
 https://github.com/user-attachments/assets/a1fbbd0c-1d74-4906-ac41-a48dd3d5c680
 
+We can see the system processing process in the terminal
+
+**step1:** During the registration phase, the user performs four head postures, each of which is repeated three times.
+
+**step2:** The system processes the collected user registration data and uses it to train the model
+
+**step3:** The registered user performs three nod gestures and the verification is successful
+
+**step4:** The unregistered user(attacker) performs three nod gestures and the verification fails
+
 
 
 
