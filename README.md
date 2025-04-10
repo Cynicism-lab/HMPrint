@@ -17,7 +17,7 @@ Microphones in COTS Earphones_**
 
 Click the link below to jump to the demo video playback
 
-https://github.com/user-attachments/assets/a1fbbd0c-1d74-4906-ac41-a48dd3d5c680
+https://github.com/user-attachments/assets/c32c344d-fb7a-4c8e-8b3b-3612cc760e18
 
 We can see the system processing process in the terminal
 
